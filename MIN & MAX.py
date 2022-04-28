@@ -2,7 +2,7 @@
 Question : Find Minimum and Maximum without using MIN & MAX function
 T.C. : O(1)
 S.C. : O(1)
-Concept : Bitwise And
+Concept : Basic Maths
 
 '''
 import os,sys
