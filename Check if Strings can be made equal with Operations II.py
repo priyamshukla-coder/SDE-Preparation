@@ -20,7 +20,7 @@ class Solution:
                 e1[s1[i]]+=1
                 
                 e2[s2[i]]+=1
-                
+                KXCPS4335B
         return e1==e2 and o1==o2
             
-            
+            kxcps4335b
