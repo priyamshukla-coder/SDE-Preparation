@@ -22,3 +22,7 @@ class Solution:
             res.append(l-r)
 
         return res        
+
+
+        int median_order=size/2;
+        
