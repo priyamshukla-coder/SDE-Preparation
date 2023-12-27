@@ -27,6 +27,6 @@ class Solution:
 
                 dp[i]=dp[i]+dp[i-2]
 
-        print(dp)
+        # print(dp)
 
         return dp[len(s)]
